@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2025-12-29 at 2 29 53 PM" src="https://github.com/user-attachments/assets/489a29e4-5291-4fa4-a514-c43ffcaa7f47" />## Real-Time Delivery Visibility & Performance Dashboard
+## Real-Time Delivery Visibility & Performance Dashboard
 This project was done as a part of SCM coursework at PES University. It aims to create an insightful dashboard for a 3PL company using PowerBI and Tableau and Dash 
 This project develops an interactive dashboard and integrates machine learning to provide detailed insights into delivery performance, empowering supply chain managers with data-driven decision-making.
 
