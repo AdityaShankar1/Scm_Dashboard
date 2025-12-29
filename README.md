@@ -1,4 +1,4 @@
-## Real-Time Delivery Visibility & Performance Dashboard
+<img width="1470" height="956" alt="Screenshot 2025-12-29 at 2 29 53 PM" src="https://github.com/user-attachments/assets/489a29e4-5291-4fa4-a514-c43ffcaa7f47" />## Real-Time Delivery Visibility & Performance Dashboard
 This project was done as a part of SCM coursework at PES University. It aims to create an insightful dashboard for a 3PL company using PowerBI and Tableau and Dash 
 This project develops an interactive dashboard and integrates machine learning to provide detailed insights into delivery performance, empowering supply chain managers with data-driven decision-making.
 
@@ -79,6 +79,10 @@ This project utilizes two datasets:
     *   **Source:** [Kaggle (Amazon Last Mile Delivery dataset)](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset).
     *   **Purpose:** Used for exploratory analysis to understand real-world delivery variables such as agent ratings, traffic, and weather. While rich in real-life scenarios, it lacked essential KPIs for end-to-end analysis and ML implementation, hence combined with the synthetic dataset.
     *   **Relevant Fields Explored:** `Delivery_person_Age`, `Delivery_person_Ratings`, `Order_Date`, `Time_Orderd`, `Time_Order_picked`, `Weatherconditions`, `Road_traffic_density`, `Type_of_order`, `Type_of_vehicle`.
+
+### 🌏 PostGIS Output:
+
+<img width="1470" height="956" alt="Screenshot 2025-12-29 at 2 29 53 PM" src="https://github.com/user-attachments/assets/d4490520-b684-4de2-9679-ae39159eba66" />
 
 ### 🤝 Contributing
 
